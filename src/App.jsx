@@ -25,7 +25,7 @@ function App() {
           <div className="rp">Related Posts</div>
         </div>
       </div>
-      <div className="footer">CPEITEL IT3B</div>
+      <div className="footer">C-PCIT9 IT3B</div>
     </div>
   )
 }
